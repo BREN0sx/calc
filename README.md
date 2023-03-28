@@ -31,3 +31,4 @@ https://user-images.githubusercontent.com/105817781/228228435-e4eb5ff6-92eb-4169
 Abaixo, um exemplo de cálculo de IMC:
 
 https://user-images.githubusercontent.com/105817781/228228282-a3a9b7d7-1adc-4496-a8d7-5eee038b2b62.mp4
+
