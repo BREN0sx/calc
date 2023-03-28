@@ -20,21 +20,11 @@ Para clonar o repositório, abra o seu terminal e execute o comando abaixo:
 git clone https://github.com/bren0sx/calc.git
 ```
 
-### Tela inicial
+### Exemplo de cálculo de juros
 
-Para visualizar a tela inicial da calculadora, favor inserir a print correspondente.
-
-### Exemplo de cálculo de juros simples
-
-Abaixo, um exemplo de cálculo de juros simples:
+Abaixo, um exemplo de cálculo de Juros, simples e compostos:
 
 https://user-images.githubusercontent.com/105817781/228228435-e4eb5ff6-92eb-4169-9120-17c4c1dc0be5.mp4
-
-### Exemplo de cálculo de juros compostos
-
-Abaixo, um exemplo de cálculo de juros compostos:
-
-Para visualizar a print correspondente, favor inserir.
 
 ### Exemplo de cálculo de IMC
 
