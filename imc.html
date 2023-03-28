@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <title>Calculadora de IMC</title>
+</head>
+<body>
+    <main id="container">
+        <div id="calculator" class="imc">
+            <h2>Calculadora de IMC</h2>
+            <div id="input_box">
+                <div class="input-field">
+                    <label for="altura">Altura</label>
+                    <div class="input-group">
+                        <span class="input-group-label">M</span>
+                    <input type="number" min="0" id="altura" placeholder="0,00">
+                </div>
+                </div>
+
+                <div class="input-field">
+                    <label for="peso">Peso</label>
+                    <div class="input-group">
+                    <span class="input-group-label">Kg</span>
+                    <input type="number" min="0" id="peso" placeholder="0,00">
+                </div>
+                </div>
+            </div>
+            <div id="result">
+                <h4>Resultado</h4>
+                <div id="calc-result" class="values display-flex">
+                <div class="flex">
+                    <span class="span">IMC</span>
+                    <span id="imcResult" class="bold dark">0</span>
+                  </div>
+                  <div class="flex">
+                    <span class="span">Classificação</span>
+                    <span id="classResult" class="bold dark">0</span>
+                  </div>
+                </div>
+            </div>
+        </div>
+        <a href="/index.html" class="link">Calculadora Juros ➝</a>
+    </main>
+    <script type="text/javascript" src="assets/js/imcCalc.js"></script>
+</body>
+</html>
