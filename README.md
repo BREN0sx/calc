@@ -28,7 +28,7 @@ Para visualizar a tela inicial da calculadora, favor inserir a print corresponde
 
 Abaixo, um exemplo de cálculo de juros simples:
 
-Para visualizar a print correspondente, favor inserir.
+https://user-images.githubusercontent.com/105817781/228228435-e4eb5ff6-92eb-4169-9120-17c4c1dc0be5.mp4
 
 ### Exemplo de cálculo de juros compostos
 
