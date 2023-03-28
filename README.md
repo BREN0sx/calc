@@ -40,7 +40,7 @@ Para visualizar a print correspondente, favor inserir.
 
 Abaixo, um exemplo de cálculo de IMC:
 
-Para visualizar a print correspondente, favor inserir.
+https://user-images.githubusercontent.com/105817781/228228282-a3a9b7d7-1adc-4496-a8d7-5eee038b2b62.mp4
 
 ## Tecnologias utilizadas
 
