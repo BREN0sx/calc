@@ -17,7 +17,7 @@ body {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    background: url(/assets/img/background.png) center;
+    background: url(/calc/assets/img/background.png) center;
     color: #d1d5db;
 }
 
