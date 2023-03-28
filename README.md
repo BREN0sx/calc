@@ -10,14 +10,14 @@ Na calculadora de IMC, o usuário deverá fornecer sua altura e peso, e os cálc
 
 ### Acessando a Calculadora
 
-A calculadora está disponível para uso em [https://bren0sx.github.io/calc/](https://bren0sx.github.io/calc/). 
+A calculadora está disponível para uso em [https://BREN0sx.github.io/calc/](https://bren0sx.github.io/calc/). 
 
 Também é possível executar a calculadora localmente através do seu computador, clonando o repositório do projeto e abrindo o arquivo `index.html` em seu navegador de preferência.
 
 Para clonar o repositório, abra o seu terminal e execute o comando abaixo:
 
 ```sh
-git clone https://github.com/bren0sx/calc.git
+git clone https://github.com/BREN0sx/calc.git
 ```
 
 ### Exemplo de cálculo de juros
