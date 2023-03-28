@@ -8,6 +8,18 @@ Para utilizar a calculadora de juros, o usuário deverá adicionar o valor do ca
 
 Na calculadora de IMC, o usuário deverá fornecer sua altura e peso, e os cálculos serão realizados imediatamente. O resultado apresentará o índice e sua classificação em uma das quatro categorias: magreza, normal, sobrepeso e obesidade. A cor da classificação será alterada para vermelho, indicando alerta, se a classificação for sobrepeso ou obesidade.
 
+### Acessando a Calculadora
+
+A calculadora está disponível para uso através do site [https://bren0sx.github.io/calc/](https://bren0sx.github.io/calc/). 
+
+Também é possível executar a calculadora localmente através do seu computador, clonando o repositório do projeto e abrindo o arquivo `index.html` em seu navegador de preferência.
+
+Para clonar o repositório, abra o seu terminal e execute o comando abaixo:
+
+```sh
+git clone https://github.com/bren0sx/calc.git
+```
+
 ### Tela inicial
 
 Para visualizar a tela inicial da calculadora, favor inserir a print correspondente.
