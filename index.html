@@ -4,49 +4,64 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
     <link rel="stylesheet" href="assets/css/style.css">
-
-    <title>Juros Compostos</title>
+    <title>Calculadora de Juros</title>
 </head>
 <body>
     <main id="container">
         <div id="calculator">
             <h2>Calculadora de Juros</h2>
-
             <div id="input_box">
                 <div class="input-field">
-                    <label for="value">Valor Inicial (capital):</label>
-                    <input type="number" min="0" id="value">
+                    <label for="value">Valor Presente</label>
+                    <div class="input-group">
+                        <span class="input-group-label">R$</span>
+                    <input type="number" min="0" id="value" placeholder="0,00">
+                </div>
                 </div>
 
                 <div class="input-field">
-                    <label for="fee">Taxa de Juros (ao mês):</label>
-                    <input type="number" min="0" id="fee">
+                    <label for="fee">Taxa de Juros</label>
+                    <div class="input-group">
+                    <span class="input-group-label">%</span>
+                    <input type="number" min="0" id="fee" placeholder="0">
+                </div>
                 </div>
 
                 <div class="input-field">
-                    <label for="time">Tempo de Rendimento (meses):</label>
-                    <input type="number" min="0" id="time">
+                    <label for="time">Tempo de Rendimento</label>
+                    <div class="input-group">
+                        <span class="input-group-label">M</span>
+                    <input type="number" min="0" id="time" placeholder="0">
                 </div>
-                
-                <select id="menu" name="Juros">
-                    <option value="simples">Juros Simples</option>
-                    <option value="compostos">Juros Compostos</option>
-                </select>
-
+                </div>
             </div>
-            
-
+            <div class="select-box">
+                <div class="option">
+                    <input type="radio" class="radio" id="simples" name="category" checked/>
+                    <label for="simples">Simples</label>
+                  </div>
+                <div class="option">
+                    <input type="radio" class="radio" id="compostos" name="category"/>
+                    <label for="compostos">Compostos</label>
+                  </div>
+            </div>
             <div id="result">
-                <h4 id="jurosType">Resultado:</h4>
-                <span id="total">R$ 0,00</span>
+                <h4>Resultado</h4>
+                <div id="calc-result" class="values display-flex">
+                <div class="flex">
+                    <span class="span">Valor total final</span>
+                    <span id="ciTotal" class="bold dark">R$ 0,00</span>
+                  </div>
+                  <div class="flex">
+                    <span class="span">Total em juros</span>
+                    <span id="ciInterestGain" class="bold green">R$ 0,00</span>
+                  </div>
+                </div>
             </div>
-
-            <button id="calculate">Calcular</button>
         </div>
+        <a href="/imc.html" class="link">Calculadora IMC ➝</a>
     </main>
-
-    <script type="text/javascript" src="assets/js/script.js"></script>
+    <script type="text/javascript" src="assets/js/jurosCalc.js"></script>
 </body>
 </html>
