@@ -1,6 +1,6 @@
 # Calculadora de Juros e IMC
 
-Este projeto de Programação Web consiste em uma calculadora de juros simples e compostos, bem como uma calculadora de índice de massa corporal (IMC), desenvolvida utilizando tecnologias como HTML, CSS e JavaScript. A interface amigável e interativa da calculadora permite ao usuário inserir informações específicas sobre cada tipo de cálculo, com resultados imediatamente apresentados após todos os campos serem preenchidos ou alterados.
+Essa aplicação de Programação Web consiste em uma calculadora de juros simples e compostos, bem como uma calculadora de índice de massa corporal (IMC), desenvolvida utilizando tecnologias como HTML, CSS e JavaScript. A interface amigável e interativa da calculadora permite ao usuário inserir informações específicas sobre cada tipo de cálculo, com resultados imediatamente apresentados após todos os campos serem preenchidos ou alterados.
 
 ## Como usar a calculadora
 
