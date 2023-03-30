@@ -32,4 +32,3 @@ Abaixo, um exemplo de cálculo de IMC:
 
 ![ezgif-4-f908141d49](https://user-images.githubusercontent.com/105817781/228823370-c58e9a73-d95a-4945-a9fb-8b065b225135.gif)
 
-
