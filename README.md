@@ -24,11 +24,13 @@ git clone https://github.com/BREN0sx/calc.git
 
 Abaixo, um exemplo de cálculo de Juros, simples e compostos:
 
-https://user-images.githubusercontent.com/105817781/228228435-e4eb5ff6-92eb-4169-9120-17c4c1dc0be5.mp4
+![ezgif-4-fd53cf1c7a](https://user-images.githubusercontent.com/105817781/228823271-7f049db9-2a0b-46c5-a7e3-6d811c80b612.gif)
 
 ### Exemplo de cálculo de IMC
 
 Abaixo, um exemplo de cálculo de IMC:
 
-https://user-images.githubusercontent.com/105817781/228228282-a3a9b7d7-1adc-4496-a8d7-5eee038b2b62.mp4
+![ezgif-4-f908141d49](https://user-images.githubusercontent.com/105817781/228823370-c58e9a73-d95a-4945-a9fb-8b065b225135.gif)
+
+
 
