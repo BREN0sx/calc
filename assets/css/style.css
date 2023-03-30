@@ -18,6 +18,7 @@ body {
     justify-content: center;
     flex-direction: column;
     background: url(../img/background.png) center;
+    background-color: #262626;
     color: #d1d5db;
 }
 
